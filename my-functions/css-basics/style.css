@@ -1,0 +1,19 @@
+body {
+    background: lemonchiffon;
+background-image: url('flowers.jpg');
+font-family: 'Roboto', Arial, sans-serif;
+}
+p {
+    color: red;
+    font-size: 15px;
+    line-height: 1.5;
+}
+.intro-heading {
+    color : green
+}
+#first-paragraph {
+    color: yellowgreen
+}
+#p3{
+    font-size: 22px;
+}
